@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/yogabloom-project/",
+    "build": "vite build --base=/119_html-css_VasylPidkaminetskuy/",
     "preview": "vite preview"
   },
   "devDependencies": {
